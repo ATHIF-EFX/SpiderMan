@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="HOME/IMG_20220310_161504_330.jpg" alt="Spider Man">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
